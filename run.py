@@ -15,7 +15,6 @@ from Src.API.guardahd import guardahd
 from Src.API.animeworld import animeworld
 from Src.API.guardaflix import guardaflix
 from Src.API.guardoserie import guardoserie
-from Src.API.eurostreaming import eurostreaming
 
 from Src.Utilities.dictionaries import STREAM,extra_sources,provider_map
 from Src.API.epg import tivu, tivu_get,epg_guide,convert_bho_1,convert_bho_2,convert_bho_3

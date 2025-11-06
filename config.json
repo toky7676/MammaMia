@@ -12,6 +12,12 @@
             "url": "https://filmpertutti.motorcycles",
             "enabled": "1"
         },
+        "Eurostreaming": {
+            "url": "https//eurostreaming.garden",
+            "enabled": "1"
+            "ES_ForwardProxy": "0",
+            "ES_PROXY": "0",
+        },
         "Tantifilm": {
             "url": "https://www.tanti.bond",
             "TF_ForwardProxy": "0",
